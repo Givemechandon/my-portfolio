@@ -5,6 +5,7 @@ Este é o meu portfólio de apresentação, onde mostro minhas informações, ha
 ## 📦 Tecnologias Utilizadas
 - HTML5
 - CSS3
+- Sass
 - JavaScript
 
 ## 🌟 Funcionalidades
