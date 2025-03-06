@@ -1,13 +1,22 @@
-# 💼 Responsive Mini Portfolio
-### 💼 Responsive Mini Portfolio
+# Portfólio de Apresentação
 
-- Responsive mini portfolio website Using HTML CSS & JavaScript
-- Contains animations css.
-- Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Este é o meu portfólio de apresentação, onde mostro minhas informações, habilidades e projetos.
 
-💙 Follow me on github to see more projects like this. 
+## 📦 Tecnologias Utilizadas
+- HTML5
+- CSS3
+- JavaScript
 
-![preview img](/preview.png)
+## 🌟 Funcionalidades
+- Portfólio responsivo, adaptando-se a qualquer aparelho.
+- Exibe minhas informações pessoais e projetos desenvolvidos.
 
+## 🚀 Como Iniciar o Projeto
+Para abrir o portfólio, basta usar o comando:
+```
+alt+lo
+```
+
+---
+
+Feito por **Dev Bruno Correia**
